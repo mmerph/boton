@@ -13,9 +13,9 @@ body {
   }
   
   .contest-button {
-    width: 120px;
-    height: 120px;
-    font-size: 18px;
+    width: 220px;
+    height: 220px;
+    font-size: 30px;
     color: white;
     border: none;
     border-radius: 50%; /* Hace que los botones sean circulares */
